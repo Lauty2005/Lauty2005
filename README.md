@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Lautaro Iezzi 👋
 
-### Estudiante de Ingeniería · Desarrollador Web · Entusiasta de la F1 🏎️
+### Estudiante de Programación · Desarrollador Web · Entusiasta de la F1 🏎️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-iezzi-006b96258)
 [![Website](https://img.shields.io/badge/f1grandprixhub.com-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://f1grandprixhub.com)
