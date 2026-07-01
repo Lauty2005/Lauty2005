@@ -66,7 +66,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lautaro-iezzi-006b96258)
 - 🌐 [f1grandprixhub.com](https://f1grandprixhub.com)
-- 📧 tu-email@ejemplo.com
+- 📧 iezzilautaro@gmail.com
 
 <div align="center">
 <i>¡Gracias por visitar mi perfil! ⭐</i>
